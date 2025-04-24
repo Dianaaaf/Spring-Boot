@@ -1,0 +1,8 @@
+com\exemplo\tarefas\controller\TarefaController.class
+com\exemplo\tarefas\repository\TarefaRepository.class
+com\exemplo\tarefas\service\TarefaMongoService.class
+com\example\GerenciamentoTarefasMVC\GerenciamentoTarefasMvcApplication.class
+com\exemplo\tarefas\controller\TarefaMongoController.class
+com\exemplo\tarefas\repository\TarefaMongoRepository.class
+com\exemplo\tarefas\model\Tarefa.class
+com\exemplo\tarefas\service\TarefaService.class
